@@ -4,6 +4,6 @@ highlighter:      pygments
 # Setup
 title:            Mockup
 description:      'A proof of concept for standalone HTML documentation for PSG developers.'
-url:              'https://michelle-hu-2021.github.io'
-baseurl:          '/mockup'
+url:              'https://michelle-hu-2021.github.io/mockup'
+baseurl:          ''
 permalink:        pretty
